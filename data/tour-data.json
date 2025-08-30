@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "Tourist country": "United States",
+    "Month": "December",
+    "Duration": "7",
+    "Price USD": "High",
+    "Location": "Colombo, Kandy, Sigiriya",
+    "Interest": "Cultural",
+    "Activities": "Temple visits, Historical sites, City tours",
+    "Overnight_stay": "Luxury hotels and boutique resorts"
+  },
+  {
+    "id": 2,
+    "Tourist country": "United Kingdom",
+    "Month": "January",
+    "Duration": "10",
+    "Price USD": "Medium",
+    "Location": "Galle, Mirissa, Ella",
+    "Interest": "Beach",
+    "Activities": "Beach relaxation, Whale watching, Train rides",
+    "Overnight_stay": "Beach resorts and hill country hotels"
+  }
+]
